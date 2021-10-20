@@ -6,7 +6,7 @@ Link para meu perfil na Digital Innovation One (DIO):
 </a>
 
 Link para baixar meu certificado na DIO:
-<a href="https://certificates.digitalinnovation.one/">
+<a href="https://certificates.digitalinnovation.one/D695B311">
   perfil
 </a>
 
